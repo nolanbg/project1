@@ -1,0 +1,19 @@
+#canv {
+        background-color: lightblue;
+    }
+    #showScore {
+        position: absolute;
+        top: 100px;
+        left: 300px;
+        font-size: 50px;
+    }
+    h1{
+      background: linear-gradient(#e66465, #9198e5);
+      color: #0000FF;
+    }
+    h2{
+      color: #00CCFF;
+    }
+    body {
+      background: linear-gradient(#e66465, #9198e5);
+    }
